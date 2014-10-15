@@ -1,0 +1,6 @@
+c:\users\reiyo_000\documents\visual studio 2013\Projects\2.2.digital.vackarklocka\2.2.digital.vackarklocka\bin\Debug\2.2.digital.vackarklocka.exe.config
+C:\Users\reiyo_000\documents\visual studio 2013\Projects\2.2.digital.vackarklocka\2.2.digital.vackarklocka\bin\Debug\2.2.digital.vackarklocka.exe
+C:\Users\reiyo_000\documents\visual studio 2013\Projects\2.2.digital.vackarklocka\2.2.digital.vackarklocka\bin\Debug\2.2.digital.vackarklocka.pdb
+C:\Users\reiyo_000\documents\visual studio 2013\Projects\2.2.digital.vackarklocka\2.2.digital.vackarklocka\obj\Debug\2.2.digital.vackarklocka.csprojResolveAssemblyReference.cache
+C:\Users\reiyo_000\documents\visual studio 2013\Projects\2.2.digital.vackarklocka\2.2.digital.vackarklocka\obj\Debug\2.2.digital.vackarklocka.exe
+C:\Users\reiyo_000\documents\visual studio 2013\Projects\2.2.digital.vackarklocka\2.2.digital.vackarklocka\obj\Debug\2.2.digital.vackarklocka.pdb
